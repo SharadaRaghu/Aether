@@ -36,7 +36,7 @@ Unlike generic 3D planners, Aether:
 **Case 1: Small Home Office**
 ```
 Room: 3.5m × 4m
-Input: "Compact work space for freelancer with desk, chair, and storage"
+Input: "Compact casual space with desk, chair, and storage"
 Output: AI-optimized layout showing desk positioned for natural light, 
         ergonomic chair placement, and bookshelf in corner
 Result: Order furniture with confidence knowing exactly how it fits
@@ -45,7 +45,7 @@ Result: Order furniture with confidence knowing exactly how it fits
 **Case 2: Apartment Redesign**
 ```
 Room: 5m × 6m
-Input: "Modern living room with sofa, coffee table, plants"
+Input: "Home office for freelancer with desk, ergonomic chair and tall plant"
 Output: Multiple layout suggestions showing different furniture arrangements
 Result: Visualize options before committing to new furniture purchases
 ```
